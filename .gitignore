@@ -1,0 +1,10 @@
+# Ignore large data files
+dark_store_project/data/*.csv
+dark_store_project/data/*.pkl
+
+# Ignore models
+dark_store_project/results/*.zip
+
+# Ignore Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,70 @@
+﻿============================================================
+TESTING DARK STORE ENVIRONMENT
+============================================================
+
+[1/3] Creating environment...
+python : Traceback (most 
+recent call last):
+At line:1 char:1
++ python "d:/iomp/dark_store_
+project/code/3_gym_environmen
+t.py" 2>&1 |  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Traceba  
+  ck (most recent call las   
+ t)::String) [], RemoteEx    
+ception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+  File "d:\iomp\dark_store_pr
+oject\code\3_gym_environment.
+py", line 220, in <module>
+    print("\u2713 
+Environment created 
+successfully!")
+  File "C:\Users\padma\AppDat
+a\Local\Programs\Python\Pytho
+n312\Lib\encodings\cp1252.py"
+, line 19, in encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\u2713' in 
+position 0: character maps 
+to <undefined>
+
+During handling of the above 
+exception, another exception 
+occurred:
+
+Traceback (most recent call 
+last):
+  File "d:\iomp\dark_store_pr
+oject\code\3_gym_environment.
+py", line 226, in <module>
+    print(f"\u274c Error 
+creating environment: {e}")
+  File "C:\Users\padma\AppDat
+a\Local\Programs\Python\Pytho
+n312\Lib\encodings\cp1252.py"
+, line 19, in encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\u274c' in 
+position 0: character maps 
+to <undefined>
