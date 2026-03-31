@@ -76,11 +76,9 @@ class DarkStoreEnv(gym.Env):
         # Get probabilities based on real grocery dataset frequencies
         probs = []
         for pid in self.all_product_ids:
-            # frequencies are stored in the layout dictionary
+            # Use real grocery dataset frequencies directly (no amplification)
             freq = self.layout[str(pid)].get('frequency', 1)
-            # Apply Pareto power-law amplification (80/20 rule)
-            # Highly requested items become drastically more common
-            probs.append(freq ** 1.5)
+            probs.append(freq)
             
         prob_sum = sum(probs)
         normalized_probs = [p/prob_sum for p in probs]

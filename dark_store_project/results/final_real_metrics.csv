@@ -1,4 +1,4 @@
 Method,Avg Steps,Success Rate (%)
-Random Walk + ILP Layout,286.275,10.5
-PPO + Random Layout,205.62,67.5
-PPO + ILP Layout (Ours),162.135,62.0
+Random Walk + ILP Layout,179.535,0.5
+PPO + Random Layout,148.785,44.0
+PPO + ILP Layout (Ours),132.175,49.5
