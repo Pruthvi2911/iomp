@@ -8,3 +8,6 @@ dark_store_project/results/*.zip
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+# Ignore large datasets
+dataset/

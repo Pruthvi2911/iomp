@@ -10,4993 +10,993 @@
     "distance_from_depot": 1.0
   },
   "13176": {
-    "shelf_id": 4,
+    "shelf_id": 3,
     "row": 1,
-    "col": 6,
-    "side": "left",
+    "col": 5,
+    "side": "right",
     "product_name": "Bag of Organic Bananas",
     "frequency": 379450,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 2.0
   },
   "21137": {
-    "shelf_id": 4,
-    "row": 1,
+    "shelf_id": 13,
+    "row": 2,
     "col": 6,
     "side": "left",
     "product_name": "Organic Strawberries",
     "frequency": 264683,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 2.0
   },
   "21903": {
-    "shelf_id": 4,
+    "shelf_id": 5,
     "row": 1,
-    "col": 6,
-    "side": "left",
+    "col": 8,
+    "side": "right",
     "product_name": "Organic Baby Spinach",
     "frequency": 241921,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 3.0
   },
   "47209": {
-    "shelf_id": 4,
-    "row": 1,
+    "shelf_id": 22,
+    "row": 3,
     "col": 6,
     "side": "left",
     "product_name": "Organic Hass Avocado",
     "frequency": 213584,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 3.0
   },
   "47766": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 12,
+    "row": 2,
+    "col": 5,
+    "side": "right",
     "product_name": "Organic Avocado",
     "frequency": 176815,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 3.0
   },
   "47626": {
-    "shelf_id": 4,
+    "shelf_id": 2,
     "row": 1,
-    "col": 6,
+    "col": 3,
     "side": "left",
     "product_name": "Large Lemon",
     "frequency": 152657,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 4.0
   },
   "16797": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 14,
+    "row": 2,
+    "col": 8,
+    "side": "right",
     "product_name": "Strawberries",
     "frequency": 142951,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 4.0
   },
   "26209": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 21,
+    "row": 3,
+    "col": 5,
+    "side": "right",
     "product_name": "Limes",
     "frequency": 140627,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 4.0
   },
   "27845": {
-    "shelf_id": 4,
+    "shelf_id": 6,
     "row": 1,
-    "col": 6,
+    "col": 9,
     "side": "left",
     "product_name": "Organic Whole Milk",
     "frequency": 137905,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 4.0
   },
   "27966": {
-    "shelf_id": 4,
-    "row": 1,
+    "shelf_id": 31,
+    "row": 4,
     "col": 6,
     "side": "left",
     "product_name": "Organic Raspberries",
     "frequency": 137057,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 4.0
   },
   "22935": {
-    "shelf_id": 4,
+    "shelf_id": 1,
     "row": 1,
-    "col": 6,
-    "side": "left",
+    "col": 2,
+    "side": "right",
     "product_name": "Organic Yellow Onion",
     "frequency": 113426,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 5.0
   },
   "24964": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 23,
+    "row": 3,
+    "col": 8,
+    "side": "right",
     "product_name": "Organic Garlic",
     "frequency": 109778,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 5.0
   },
   "45007": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
+    "shelf_id": 15,
+    "row": 2,
+    "col": 9,
     "side": "left",
     "product_name": "Organic Zucchini",
     "frequency": 104823,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 5.0
   },
   "39275": {
-    "shelf_id": 4,
-    "row": 1,
-    "col": 6,
+    "shelf_id": 11,
+    "row": 2,
+    "col": 3,
     "side": "left",
     "product_name": "Organic Blueberries",
     "frequency": 100060,
     "abc_class": "A",
-    "distance_from_depot": 1.0
+    "distance_from_depot": 5.0
   },
   "49683": {
-    "shelf_id": 13,
-    "row": 2,
+    "shelf_id": 40,
+    "row": 5,
     "col": 6,
     "side": "left",
     "product_name": "Cucumber Kirby",
     "frequency": 97315,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 5.0
   },
   "28204": {
-    "shelf_id": 3,
-    "row": 1,
+    "shelf_id": 30,
+    "row": 4,
     "col": 5,
     "side": "right",
     "product_name": "Organic Fuji Apple",
     "frequency": 89632,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 5.0
   },
   "5876": {
-    "shelf_id": 3,
+    "shelf_id": 7,
     "row": 1,
-    "col": 5,
+    "col": 11,
     "side": "right",
     "product_name": "Organic Lemon",
     "frequency": 87746,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "8277": {
-    "shelf_id": 13,
+    "shelf_id": 10,
     "row": 2,
-    "col": 6,
-    "side": "left",
+    "col": 2,
+    "side": "right",
     "product_name": "Apple Honeycrisp Organic",
     "frequency": 85020,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "40706": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
+    "shelf_id": 32,
+    "row": 4,
+    "col": 8,
     "side": "right",
     "product_name": "Organic Grape Tomatoes",
     "frequency": 84255,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "4920": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 49,
+    "row": 6,
+    "col": 6,
+    "side": "left",
     "product_name": "Seedless Red Grapes",
     "frequency": 82689,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "30391": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 24,
+    "row": 3,
+    "col": 9,
+    "side": "left",
     "product_name": "Organic Cucumber",
     "frequency": 80392,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "45066": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 39,
+    "row": 5,
+    "col": 5,
+    "side": "right",
     "product_name": "Honeycrisp Apple",
     "frequency": 79769,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "42265": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 20,
+    "row": 3,
+    "col": 3,
+    "side": "left",
     "product_name": "Organic Baby Carrots",
     "frequency": 76896,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 6.0
   },
   "49235": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
+    "shelf_id": 29,
+    "row": 4,
+    "col": 3,
     "side": "left",
     "product_name": "Organic Half & Half",
     "frequency": 76360,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "44632": {
-    "shelf_id": 3,
-    "row": 1,
+    "shelf_id": 48,
+    "row": 6,
     "col": 5,
     "side": "right",
     "product_name": "Sparkling Water Grapefruit",
     "frequency": 75886,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "19057": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
+    "shelf_id": 0,
+    "row": 1,
+    "col": 0,
     "side": "left",
     "product_name": "Organic Large Extra Fancy Fuji Apple",
     "frequency": 75165,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "4605": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
+    "shelf_id": 41,
+    "row": 5,
+    "col": 8,
     "side": "right",
     "product_name": "Yellow Onions",
     "frequency": 73167,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "37646": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
+    "shelf_id": 33,
+    "row": 4,
+    "col": 9,
     "side": "left",
     "product_name": "Organic Gala Apples",
     "frequency": 72846,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "21616": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 19,
+    "row": 3,
+    "col": 2,
+    "side": "right",
     "product_name": "Organic Baby Arugula",
     "frequency": 72829,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "17794": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 58,
+    "row": 7,
+    "col": 6,
+    "side": "left",
     "product_name": "Carrots",
     "frequency": 72736,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "27104": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
+    "shelf_id": 16,
+    "row": 2,
+    "col": 11,
     "side": "right",
     "product_name": "Fresh Cauliflower",
     "frequency": 71584,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "30489": {
-    "shelf_id": 3,
+    "shelf_id": 8,
     "row": 1,
-    "col": 5,
-    "side": "right",
+    "col": 12,
+    "side": "left",
     "product_name": "Original Hummus",
     "frequency": 71314,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 7.0
   },
   "31717": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 57,
+    "row": 7,
+    "col": 5,
+    "side": "right",
     "product_name": "Organic Cilantro",
     "frequency": 69524,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "27086": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
+    "shelf_id": 38,
+    "row": 5,
+    "col": 3,
     "side": "left",
     "product_name": "Half & Half",
     "frequency": 69217,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "44359": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 25,
+    "row": 3,
+    "col": 11,
+    "side": "right",
     "product_name": "Organic Small Bunch Celery",
     "frequency": 68091,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "28985": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 50,
+    "row": 6,
+    "col": 8,
+    "side": "right",
     "product_name": "Michigan Organic Kale",
     "frequency": 67449,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "46979": {
-    "shelf_id": 13,
-    "row": 2,
+    "shelf_id": 67,
+    "row": 8,
     "col": 6,
     "side": "left",
     "product_name": "Asparagus",
     "frequency": 67283,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "8518": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
+    "shelf_id": 28,
+    "row": 4,
+    "col": 2,
     "side": "right",
     "product_name": "Organic Red Onion",
     "frequency": 66986,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "41950": {
-    "shelf_id": 13,
-    "row": 2,
-    "col": 6,
+    "shelf_id": 42,
+    "row": 5,
+    "col": 9,
     "side": "left",
     "product_name": "Organic Tomato Cluster",
     "frequency": 64289,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "26604": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 9,
+    "row": 2,
+    "col": 0,
+    "side": "left",
     "product_name": "Organic Blackberries",
     "frequency": 61746,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "5077": {
-    "shelf_id": 13,
+    "shelf_id": 17,
     "row": 2,
-    "col": 6,
+    "col": 12,
     "side": "left",
     "product_name": "100% Whole Wheat Bread",
     "frequency": 60816,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 8.0
   },
   "34126": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
+    "shelf_id": 37,
+    "row": 5,
+    "col": 2,
     "side": "right",
     "product_name": "Organic Italian Parsley Bunch",
     "frequency": 60621,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 9.0
   },
   "22035": {
-    "shelf_id": 3,
-    "row": 1,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 51,
+    "row": 6,
+    "col": 9,
+    "side": "left",
     "product_name": "Organic Whole String Cheese",
     "frequency": 59676,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 9.0
   },
   "39877": {
-    "shelf_id": 13,
-    "row": 2,
+    "shelf_id": 76,
+    "row": 9,
     "col": 6,
     "side": "left",
     "product_name": "Organic Granny Smith Apple",
     "frequency": 58779,
     "abc_class": "A",
-    "distance_from_depot": 2.0
+    "distance_from_depot": 9.0
   },
   "35951": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 66,
+    "row": 8,
+    "col": 5,
+    "side": "right",
     "product_name": "Organic Unsweetened Almond Milk",
     "frequency": 57895,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "43352": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 34,
+    "row": 4,
+    "col": 11,
     "side": "right",
     "product_name": "Raspberries",
     "frequency": 57640,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "10749": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 59,
+    "row": 7,
+    "col": 8,
     "side": "right",
     "product_name": "Organic Red Bell Pepper",
     "frequency": 57485,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "19660": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 18,
+    "row": 3,
+    "col": 0,
+    "side": "left",
     "product_name": "Spring Water",
     "frequency": 56087,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "9076": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 47,
+    "row": 6,
+    "col": 3,
+    "side": "left",
     "product_name": "Blueberries",
     "frequency": 55946,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "21938": {
-    "shelf_id": 22,
+    "shelf_id": 26,
     "row": 3,
-    "col": 6,
+    "col": 12,
     "side": "left",
     "product_name": "Green Bell Pepper",
     "frequency": 55484,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 9.0
   },
   "43961": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 85,
+    "row": 10,
+    "col": 6,
+    "side": "left",
     "product_name": "Organic Peeled Whole Baby Carrots",
     "frequency": 55371,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "24184": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 75,
+    "row": 9,
+    "col": 5,
+    "side": "right",
     "product_name": "Red Peppers",
     "frequency": 55280,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "34969": {
-    "shelf_id": 5,
-    "row": 1,
+    "shelf_id": 68,
+    "row": 8,
     "col": 8,
     "side": "right",
     "product_name": "Red Vine Tomato",
     "frequency": 54409,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "46667": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 60,
+    "row": 7,
+    "col": 9,
+    "side": "left",
     "product_name": "Organic Ginger Root",
     "frequency": 52087,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "48679": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 56,
+    "row": 7,
+    "col": 3,
+    "side": "left",
     "product_name": "Organic Garnet Sweet Potato (Yam)",
     "frequency": 51939,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "25890": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 35,
+    "row": 4,
+    "col": 12,
+    "side": "left",
     "product_name": "Boneless Skinless Chicken Breasts",
     "frequency": 50281,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "31506": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 46,
+    "row": 6,
+    "col": 2,
+    "side": "right",
     "product_name": "Extra Virgin Olive Oil",
     "frequency": 50255,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "12341": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 27,
+    "row": 4,
+    "col": 0,
     "side": "left",
     "product_name": "Hass Avocados",
     "frequency": 50221,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "39928": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 43,
+    "row": 5,
+    "col": 11,
     "side": "right",
     "product_name": "Organic Kiwi",
     "frequency": 50141,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 10.0
   },
   "24838": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 69,
+    "row": 8,
+    "col": 9,
+    "side": "left",
     "product_name": "Unsweetened Almondmilk",
     "frequency": 49569,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "5450": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 65,
+    "row": 8,
+    "col": 3,
     "side": "left",
     "product_name": "Small Hass Avocado",
     "frequency": 49021,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "22825": {
-    "shelf_id": 22,
-    "row": 3,
+    "shelf_id": 94,
+    "row": 11,
     "col": 6,
     "side": "left",
     "product_name": "Organic D'Anjou Pears",
     "frequency": 48915,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "5785": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 44,
+    "row": 5,
+    "col": 12,
+    "side": "left",
     "product_name": "Organic Reduced Fat 2% Milk",
     "frequency": 47839,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "35221": {
-    "shelf_id": 5,
-    "row": 1,
+    "shelf_id": 77,
+    "row": 9,
     "col": 8,
     "side": "right",
     "product_name": "Lime Sparkling Water",
     "frequency": 46546,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "28842": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
+    "shelf_id": 52,
+    "row": 6,
+    "col": 11,
     "side": "right",
     "product_name": "Bunched Cilantro",
     "frequency": 45530,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "33731": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 55,
+    "row": 7,
+    "col": 2,
     "side": "right",
     "product_name": "Grated Parmesan",
     "frequency": 45238,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "27521": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 36,
+    "row": 5,
+    "col": 0,
     "side": "left",
     "product_name": "Organic Lacinato (Dinosaur) Kale",
     "frequency": 43067,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "44142": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
+    "shelf_id": 84,
+    "row": 10,
+    "col": 5,
     "side": "right",
     "product_name": "Red Onion",
     "frequency": 43009,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 11.0
   },
   "33198": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 64,
+    "row": 8,
+    "col": 2,
+    "side": "right",
     "product_name": "Sparkling Natural Mineral Water",
     "frequency": 42934,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "8174": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
+    "shelf_id": 61,
+    "row": 7,
+    "col": 11,
     "side": "right",
     "product_name": "Organic Navel Orange",
     "frequency": 42721,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "20114": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 53,
+    "row": 6,
+    "col": 12,
+    "side": "left",
     "product_name": "Jalapeno Peppers",
     "frequency": 42561,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "8424": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 78,
+    "row": 9,
+    "col": 9,
+    "side": "left",
     "product_name": "Broccoli Crown",
     "frequency": 42044,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "27344": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 45,
+    "row": 6,
+    "col": 0,
+    "side": "left",
     "product_name": "Uncured Genoa Salami",
     "frequency": 41473,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "11520": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 86,
+    "row": 10,
+    "col": 8,
+    "side": "right",
     "product_name": "Large Alfresco Eggs",
     "frequency": 40376,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "29487": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 74,
+    "row": 9,
+    "col": 3,
+    "side": "left",
     "product_name": "Roma Tomato",
     "frequency": 40212,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "18465": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 93,
+    "row": 11,
+    "col": 5,
+    "side": "right",
     "product_name": "Organic Grade A Free Range Large Brown Eggs",
     "frequency": 40045,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 12.0
   },
   "28199": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 62,
+    "row": 7,
+    "col": 12,
+    "side": "left",
     "product_name": "Clementines, Bag",
     "frequency": 39825,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "15290": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 54,
+    "row": 7,
+    "col": 0,
     "side": "left",
     "product_name": "Orange Bell Pepper",
     "frequency": 39188,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "46906": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
-    "side": "left",
+    "shelf_id": 73,
+    "row": 9,
+    "col": 2,
+    "side": "right",
     "product_name": "Grape White/Green Seedless",
     "frequency": 38971,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "9839": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
+    "shelf_id": 70,
+    "row": 8,
+    "col": 11,
     "side": "right",
     "product_name": "Organic Broccoli",
     "frequency": 38720,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "27156": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 87,
+    "row": 10,
+    "col": 9,
+    "side": "left",
     "product_name": "Organic Black Beans",
     "frequency": 38001,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "3957": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 95,
+    "row": 11,
+    "col": 8,
     "side": "right",
     "product_name": "100% Raw Coconut Water",
     "frequency": 37973,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "43122": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 83,
+    "row": 10,
+    "col": 3,
+    "side": "left",
     "product_name": "Organic Bartlett Pear",
     "frequency": 37706,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 13.0
   },
   "23909": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 82,
+    "row": 10,
+    "col": 2,
     "side": "right",
     "product_name": "2% Reduced Fat Milk",
     "frequency": 37091,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "34358": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 63,
+    "row": 8,
+    "col": 0,
     "side": "left",
     "product_name": "Garlic",
     "frequency": 36617,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "4799": {
-    "shelf_id": 12,
-    "row": 2,
-    "col": 5,
+    "shelf_id": 79,
+    "row": 9,
+    "col": 11,
     "side": "right",
     "product_name": "Shredded Parmesan",
     "frequency": 36365,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "9387": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 96,
+    "row": 11,
+    "col": 9,
+    "side": "left",
     "product_name": "Granny Smith Apples",
     "frequency": 36187,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "16759": {
-    "shelf_id": 22,
-    "row": 3,
-    "col": 6,
+    "shelf_id": 92,
+    "row": 11,
+    "col": 3,
     "side": "left",
     "product_name": "Organic Carrot Bunch",
     "frequency": 35820,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "196": {
-    "shelf_id": 5,
-    "row": 1,
-    "col": 8,
-    "side": "right",
+    "shelf_id": 71,
+    "row": 8,
+    "col": 12,
+    "side": "left",
     "product_name": "Soda",
     "frequency": 35791,
     "abc_class": "A",
-    "distance_from_depot": 3.0
+    "distance_from_depot": 14.0
   },
   "42736": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
+    "shelf_id": 91,
+    "row": 11,
+    "col": 2,
+    "side": "right",
     "product_name": "Unsalted Butter",
     "frequency": 35667,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 15.0
   },
   "38689": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
+    "shelf_id": 80,
+    "row": 9,
+    "col": 12,
     "side": "left",
     "product_name": "Organic Reduced Fat Milk",
     "frequency": 35663,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 15.0
   },
   "4210": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
+    "shelf_id": 88,
+    "row": 10,
+    "col": 11,
     "side": "right",
     "product_name": "Whole Milk",
     "frequency": 35633,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 15.0
   },
   "41787": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
+    "shelf_id": 72,
+    "row": 9,
+    "col": 0,
     "side": "left",
     "product_name": "Bartlett Pears",
     "frequency": 35413,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 15.0
   },
   "41220": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 81,
+    "row": 10,
+    "col": 0,
+    "side": "left",
     "product_name": "Organic Romaine Lettuce",
     "frequency": 34874,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 16.0
   },
   "47144": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
+    "shelf_id": 89,
+    "row": 10,
+    "col": 12,
     "side": "left",
     "product_name": "Unsweetened Original Almond Breeze Almond Milk",
     "frequency": 34583,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 16.0
   },
   "7781": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
+    "shelf_id": 97,
+    "row": 11,
+    "col": 11,
+    "side": "right",
     "product_name": "Organic Sticks Low Moisture Part Skim Mozzarella String Cheese",
     "frequency": 34209,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 16.0
   },
   "33000": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 98,
+    "row": 11,
+    "col": 12,
+    "side": "left",
     "product_name": "Pure Irish Butter",
     "frequency": 33908,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 17.0
   },
   "20995": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
+    "shelf_id": 90,
+    "row": 11,
+    "col": 0,
     "side": "left",
     "product_name": "Organic Broccoli Florets",
     "frequency": 32887,
     "abc_class": "A",
-    "distance_from_depot": 4.0
+    "distance_from_depot": 17.0
   },
   "21709": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
+    "shelf_id": 90,
+    "row": 11,
+    "col": 0,
+    "side": "left",
     "product_name": "Sparkling Lemon Water",
     "frequency": 32788,
     "abc_class": "A",
-    "distance_from_depot": 4.0
-  },
-  "19678": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Russet Potato",
-    "frequency": 32534,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "40604": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Feta Cheese Crumbles",
-    "frequency": 32351,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "30233": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Large Brown Grade AA Cage Free Eggs",
-    "frequency": 32105,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "34243": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Baby Broccoli",
-    "frequency": 31792,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "37687": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Spring Mix",
-    "frequency": 31768,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "24489": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Whole Strawberries",
-    "frequency": 31445,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "42828": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Whipped Cream Cheese",
-    "frequency": 31192,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "5479": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Italian Sparkling Mineral Water",
-    "frequency": 30937,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "432": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Vanilla Almond Breeze Almond Milk",
-    "frequency": 30935,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "6184": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Clementines",
-    "frequency": 30843,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "16185": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Sharp Cheddar Cheese",
-    "frequency": 30170,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "42768": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Garbanzo Beans",
-    "frequency": 30055,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "17948": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Frozen Organic Wild Blueberries",
-    "frequency": 29905,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "33754": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Total 2% with Strawberry Lowfat Greek Strained Yogurt",
-    "frequency": 29893,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "19348": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Fat Free Milk",
-    "frequency": 29345,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "8193": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Russet Potato",
-    "frequency": 29313,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "26369": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Roma Tomato",
-    "frequency": 29296,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "42585": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Extra Firm Tofu",
-    "frequency": 29124,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "14992": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Green Beans",
-    "frequency": 29069,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "14947": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Pure Sparkling Water",
-    "frequency": 28884,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "22963": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Roasted Turkey Breast",
-    "frequency": 28384,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "1463": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Milk",
-    "frequency": 27992,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "28849": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "No Salt Added Black Beans",
-    "frequency": 27924,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "8021": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "100% Recycled Paper Towels",
-    "frequency": 27864,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "25659": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Coconut Milk",
-    "frequency": 27255,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "21405": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Red Radish, Bunch",
-    "frequency": 27226,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "46676": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Total 0% Nonfat Greek Yogurt",
-    "frequency": 26878,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "31343": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Shredded Mild Cheddar Cheese",
-    "frequency": 26777,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "41844": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Honey Nut Cheerios",
-    "frequency": 26741,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "38293": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Ground Turkey Breast",
-    "frequency": 26721,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "42701": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Sour Cream",
-    "frequency": 26691,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "43789": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Basil",
-    "frequency": 26668,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "36011": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Fat Free Milk",
-    "frequency": 26591,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "5025": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Green Onions",
-    "frequency": 26536,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "39475": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Total Greek Strained Yogurt",
-    "frequency": 26443,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "43295": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Unsweetened Vanilla Almond Milk",
-    "frequency": 26307,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "11777": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Red Raspberries",
-    "frequency": 26220,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "20842": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Total 0% Greek Yogurt",
-    "frequency": 26154,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "32689": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Romaine Hearts",
-    "frequency": 25974,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "32655": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Large Grade AA Brown Eggs",
-    "frequency": 25523,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "2295": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Yellow Bell Pepper",
-    "frequency": 25459,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "46802": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Pineapple Chunks",
-    "frequency": 24950,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "13870": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Lightly Salted Baked Snap Pea Crisps",
-    "frequency": 24950,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "25146": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Original Orange Juice",
-    "frequency": 24918,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "18531": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Heavy Whipping Cream",
-    "frequency": 24664,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "5212": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Watermelon Chunks",
-    "frequency": 24534,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "31553": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Fresh Ginger Root",
-    "frequency": 24130,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "39408": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Gala Apples",
-    "frequency": 24086,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "260": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Cantaloupe",
-    "frequency": 23900,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "36695": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Hothouse Cucumbers",
-    "frequency": 23892,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "10246": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Celery Hearts",
-    "frequency": 23826,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "24830": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Romaine",
-    "frequency": 23642,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "38383": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic White Onions",
-    "frequency": 23641,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "43768": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Bell Pepper",
-    "frequency": 23388,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "1940": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic 2% Reduced Fat Milk",
-    "frequency": 23244,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "11182": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Baby Spinach",
-    "frequency": 23129,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "18523": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Total 2% All Natural Greek Strained Yogurt with Honey",
-    "frequency": 23034,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "18362": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Bread with 21 Whole Grains",
-    "frequency": 23006,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "21288": {
-    "shelf_id": 6,
-    "row": 1,
-    "col": 9,
-    "side": "left",
-    "product_name": "Blackberries",
-    "frequency": 22864,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "6046": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Boneless Skinless Chicken Breast",
-    "frequency": 22590,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "44683": {
-    "shelf_id": 21,
-    "row": 3,
-    "col": 5,
-    "side": "right",
-    "product_name": "Brussels Sprouts",
-    "frequency": 22275,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "29987": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Shredded Mozzarella",
-    "frequency": 21999,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "890": {
-    "shelf_id": 31,
-    "row": 4,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Diced Tomatoes",
-    "frequency": 21997,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "38777": {
-    "shelf_id": 2,
-    "row": 1,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Green Seedless Grapes",
-    "frequency": 21745,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "43772": {
-    "shelf_id": 14,
-    "row": 2,
-    "col": 8,
-    "side": "right",
-    "product_name": "Cherubs Heavenly Salad Tomatoes",
-    "frequency": 21552,
-    "abc_class": "B",
-    "distance_from_depot": 4.0
-  },
-  "23734": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Sour Cream",
-    "frequency": 21540,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "7948": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Unsalted Butter",
-    "frequency": 21509,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "30450": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Creamy Almond Butter",
-    "frequency": 21490,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "38456": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Large Grapefruit",
-    "frequency": 21451,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "46969": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Bosc Pear",
-    "frequency": 21431,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "44910": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Spring Mix Salad",
-    "frequency": 21416,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "47734": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Green Cabbage",
-    "frequency": 21352,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "38159": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Yellow Peaches",
-    "frequency": 21301,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "26620": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Peach Pear Flavored Sparkling Water",
-    "frequency": 21233,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "47672": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Uncured Hickory Smoked Sunday Bacon",
-    "frequency": 20775,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "4957": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Total 2% Lowfat Greek Strained Yogurt With Blueberry",
-    "frequency": 20758,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "26165": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Electrolyte Enhanced Water",
-    "frequency": 20735,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "30776": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Raw Kombucha Gingerade",
-    "frequency": 20707,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "44987": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Heavy Whipping Cream",
-    "frequency": 20684,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "35939": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Jalapeno Pepper",
-    "frequency": 20262,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "14678": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Frozen Peas",
-    "frequency": 20228,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "16349": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Yams",
-    "frequency": 20217,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "28289": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Shredded Carrots",
-    "frequency": 20211,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "29447": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Milk, Organic, Vitamin D",
-    "frequency": 20198,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "44422": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Old Fashioned Rolled Oats",
-    "frequency": 20140,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "40310": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Oven Roasted Turkey Breast",
-    "frequency": 20069,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "16953": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Creamy Peanut Butter",
-    "frequency": 20033,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "23375": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Marinara Sauce",
-    "frequency": 19998,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "33787": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Total 2% Lowfat Greek Strained Yogurt with Peach",
-    "frequency": 19908,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "19048": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Butternut Squash",
-    "frequency": 19847,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "2078": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Unsalted Pure Irish Butter",
-    "frequency": 19846,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "13984": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Mint",
-    "frequency": 19745,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "41290": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Lemonade",
-    "frequency": 19692,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "23165": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Leek",
-    "frequency": 19671,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "32864": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Baby Rainbow Carrots",
-    "frequency": 19639,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "17600": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",
-    "frequency": 19611,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "39812": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Thyme",
-    "frequency": 19544,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "8859": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Natural Spring Water",
-    "frequency": 19518,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "48364": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Sweet Onion",
-    "frequency": 19501,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "33120": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Egg Whites",
-    "frequency": 19400,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "31683": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Original No Pulp 100% Florida Orange Juice",
-    "frequency": 19345,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "26940": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Large Green Asparagus",
-    "frequency": 19286,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "28465": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Icelandic Style Skyr Blueberry Non-fat Yogurt",
-    "frequency": 19257,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "35108": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Salted Butter",
-    "frequency": 19163,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "26283": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "White Corn",
-    "frequency": 18906,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "37158": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Chicken & Maple Breakfast Sausage",
-    "frequency": 18602,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "37067": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Banana",
-    "frequency": 18583,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "18370": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Shredded Mozzarella",
-    "frequency": 18449,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "45": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "European Cucumber",
-    "frequency": 18413,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "41665": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Mexican Blend Finely Shredded Cheese",
-    "frequency": 18367,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "35547": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Baby Kale",
-    "frequency": 18358,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "3952": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Broccoli Crowns",
-    "frequency": 18341,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "10957": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Fridge Pack Cola",
-    "frequency": 18269,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "2086": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Sustainably Soft Bath Tissue",
-    "frequency": 18231,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "2966": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Pure Coconut Water",
-    "frequency": 18183,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "43154": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Sparkling Mineral Water",
-    "frequency": 18161,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "24799": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Vanilla Skyr Nonfat Yogurt",
-    "frequency": 18142,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "40571": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Total 2% Greek Strained Yogurt with Cherry 5.3 oz",
-    "frequency": 18044,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "10132": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic American Cheese Singles",
-    "frequency": 18040,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "43713": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Creamy Peanut Butter",
-    "frequency": 18040,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "40396": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Guacamole",
-    "frequency": 17960,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "18027": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Ezekiel 4:9 Bread Organic Sprouted Whole Grain",
-    "frequency": 17789,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "45535": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Low Sodium Chicken Broth",
-    "frequency": 17716,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "1158": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Mango Chunks",
-    "frequency": 17699,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "25931": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Baby Spinach Salad",
-    "frequency": 17672,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "7021": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Tomato Paste",
-    "frequency": 17629,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "38739": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Hass Avocado",
-    "frequency": 17565,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "13629": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Snipped Green Beans",
-    "frequency": 17423,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "42450": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Macaroni & Cheese",
-    "frequency": 17420,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "20119": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Sparkling Water Berry",
-    "frequency": 17411,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "15937": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Shallot",
-    "frequency": 17401,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "42342": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Roasted Turkey Breast",
-    "frequency": 17332,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "32478": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Reduced Fat 2% Milk",
-    "frequency": 17320,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "48745": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Globe Eggplant",
-    "frequency": 17257,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "45633": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Beef Hot Dogs",
-    "frequency": 17140,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "21019": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Roasted Red Pepper Hummus",
-    "frequency": 17038,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "34050": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Orange Juice",
-    "frequency": 16987,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "34448": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Original Veggie Straws",
-    "frequency": 16850,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "48205": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Spinach",
-    "frequency": 16829,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "39619": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Tomato Basil Pasta Sauce",
-    "frequency": 16824,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "17461": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Air Chilled Organic Boneless Skinless Chicken Breasts",
-    "frequency": 16816,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "45603": {
-    "shelf_id": 15,
-    "row": 2,
-    "col": 9,
-    "side": "left",
-    "product_name": "Trilogy Kombucha Drink",
-    "frequency": 16791,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "30169": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Total 2% All Natural Plain Greek Yogurt",
-    "frequency": 16636,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "31040": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Sea Salt Pita Chips",
-    "frequency": 16626,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "38400": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Asparation/Broccolini/Baby Broccoli",
-    "frequency": 16535,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "13646": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Lemon Hummus",
-    "frequency": 16439,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "36865": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Non Fat Raspberry Yogurt",
-    "frequency": 16377,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "40174": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "2% Reduced Fat Organic Milk",
-    "frequency": 16356,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "21267": {
-    "shelf_id": 40,
-    "row": 5,
-    "col": 6,
-    "side": "left",
-    "product_name": "Sourdough Bread",
-    "frequency": 16318,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "17872": {
-    "shelf_id": 1,
-    "row": 1,
-    "col": 2,
-    "side": "right",
-    "product_name": "Total 2% Lowfat Plain Greek Yogurt",
-    "frequency": 16246,
-    "abc_class": "B",
-    "distance_from_depot": 5.0
-  },
-  "5818": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "White Onion",
-    "frequency": 16155,
-    "abc_class": "C",
-    "distance_from_depot": 5.0
-  },
-  "26790": {
-    "shelf_id": 23,
-    "row": 3,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic AppleApple",
-    "frequency": 16129,
-    "abc_class": "C",
-    "distance_from_depot": 5.0
-  },
-  "39984": {
-    "shelf_id": 30,
-    "row": 4,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Dill",
-    "frequency": 15954,
-    "abc_class": "C",
-    "distance_from_depot": 5.0
-  },
-  "14084": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Unsweetened Vanilla Almond Milk",
-    "frequency": 15935,
-    "abc_class": "C",
-    "distance_from_depot": 5.0
-  },
-  "23288": {
-    "shelf_id": 11,
-    "row": 2,
-    "col": 3,
-    "side": "left",
-    "product_name": "Distilled Water",
-    "frequency": 15871,
-    "abc_class": "C",
-    "distance_from_depot": 5.0
-  },
-  "21376": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Pretzel Crisps Original Deli Style Pretzel Crackers",
-    "frequency": 15831,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "32734": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Spaghetti",
-    "frequency": 15813,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "33768": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Sinfully Sweet Campari Tomatoes",
-    "frequency": 15774,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "37766": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "XL Emerald White Seedless Grapes",
-    "frequency": 15740,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "46654": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Grade A Large Brown Eggs",
-    "frequency": 15703,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "12206": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Basil Pesto",
-    "frequency": 15638,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "329": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Whole Grassmilk Milk",
-    "frequency": 15459,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "28934": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Frozen Broccoli Florets",
-    "frequency": 15458,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "6187": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Raisin Bran Cereal",
-    "frequency": 15415,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "6348": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Mini Original Babybel Cheese",
-    "frequency": 15377,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "39993": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Vine Ripe Tomatoes",
-    "frequency": 15367,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "18441": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Ketchup",
-    "frequency": 15304,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "5646": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Turkey Bacon",
-    "frequency": 15302,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "25340": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Large Yellow Flesh Nectarine",
-    "frequency": 15301,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "43086": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Super Greens Salad",
-    "frequency": 15298,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "6104": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Whole Milk Plain Yogurt",
-    "frequency": 15267,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "42356": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Strawberry Preserves",
-    "frequency": 15253,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "48775": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Red Cabbage",
-    "frequency": 15055,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "651": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Salted Butter",
-    "frequency": 15035,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "10673": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Original Nooks & Crannies English Muffins",
-    "frequency": 14973,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "47977": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Grapefruit Sparkling Water",
-    "frequency": 14928,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "19508": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Corn Tortillas",
-    "frequency": 14905,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "39180": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Lowfat 1% Milk",
-    "frequency": 14869,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "40709": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Sea Salt & Vinegar Potato Chips",
-    "frequency": 14800,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "19677": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Original Pure Creamy Almond Milk",
-    "frequency": 14712,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "10017": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Tilapia Filet",
-    "frequency": 14707,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "27336": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Rainbow Carrots",
-    "frequency": 14687,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13535": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Medium Salsa",
-    "frequency": 14678,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13829": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Mild Salsa",
-    "frequency": 14664,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "42244": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt",
-    "frequency": 14621,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "11782": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Bing Cherries",
-    "frequency": 14618,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "27695": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Natural Chicken & Sage Breakfast Sausage",
-    "frequency": 14577,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "36070": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale",
-    "frequency": 14572,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "28156": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Total 0% Nonfat Plain Greek Yogurt",
-    "frequency": 14549,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "6873": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Iceberg Lettuce",
-    "frequency": 14476,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "49520": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Orange Sparkling Water",
-    "frequency": 14439,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "49383": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Bunch Beets",
-    "frequency": 14433,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "8571": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Baby Cucumbers",
-    "frequency": 14399,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "24561": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Cheese Frozen Pizza",
-    "frequency": 14313,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13249": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Skim Milk",
-    "frequency": 14289,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "49075": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Brown Rice",
-    "frequency": 14276,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "16083": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Large Brown Eggs",
-    "frequency": 14255,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "24024": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "1% Lowfat Milk",
-    "frequency": 14231,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "40545": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Berry Medley",
-    "frequency": 14227,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "40199": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Chocolate Chip Cookies",
-    "frequency": 14148,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "30720": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Sugar Snap Peas",
-    "frequency": 14120,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "17795": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Green Leaf Lettuce",
-    "frequency": 14016,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "25588": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Seedless Small Watermelon",
-    "frequency": 13996,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "35921": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Large Grade A Brown Eggs",
-    "frequency": 13881,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "17122": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Honeycrisp Apples",
-    "frequency": 13880,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "11422": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Plain Greek Yogurt",
-    "frequency": 13861,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "8670": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Diced Tomatoes",
-    "frequency": 13852,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "31915": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Red Delicious Apple",
-    "frequency": 13833,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "35561": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Tortilla Chips",
-    "frequency": 13776,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "42445": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Plain Whole Milk Yogurt",
-    "frequency": 13732,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "14233": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Natural Artesian Water",
-    "frequency": 13727,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "7963": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Gluten Free Whole Grain Bread",
-    "frequency": 13715,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "17706": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Whole Grain Wheat English Muffins",
-    "frequency": 13692,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "3599": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Baked Aged White Cheddar Rice and Corn Puffs",
-    "frequency": 13691,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "21295": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Spaghetti Squash",
-    "frequency": 13637,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "44449": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Tomato Sauce",
-    "frequency": 13597,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "36550": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Extra Large Grade AA Brown Eggs",
-    "frequency": 13587,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "19019": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Uncured Slow Cooked Ham",
-    "frequency": 13571,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "30827": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Seedless Cucumbers",
-    "frequency": 13571,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "20082": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Whole Milk with DHA Omega-3",
-    "frequency": 13528,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "35042": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Black Beans",
-    "frequency": 13525,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "25466": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Water",
-    "frequency": 13494,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "33401": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Goat Cheese Crumbles",
-    "frequency": 13450,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "1511": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "2% Reduced Fat DHA Omega-3 Reduced Fat Milk",
-    "frequency": 13397,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "42625": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Flat Parsley, Bunch",
-    "frequency": 13378,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "5194": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Bunny Fruit Snacks Berry Patch",
-    "frequency": 13372,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "8048": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Packaged Grape Tomatoes",
-    "frequency": 13355,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "23537": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Light Brown Sugar",
-    "frequency": 13354,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "2825": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Original Hommus",
-    "frequency": 13340,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "16965": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Chocolate Ice Cream",
-    "frequency": 13273,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "38928": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "0% Greek Strained Yogurt",
-    "frequency": 13238,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "21195": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Extra Virgin Olive Oil",
-    "frequency": 13216,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "19706": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Nectarine",
-    "frequency": 13101,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "18288": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Sea Salt Potato Chips",
-    "frequency": 13086,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13380": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Blue Corn Tortilla Chips",
-    "frequency": 13040,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "7751": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Tomato Ketchup",
-    "frequency": 13039,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "15872": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Celery Hearts",
-    "frequency": 13039,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "4562": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "English Seedless Cucumber",
-    "frequency": 13034,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "9339": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Chicken & Apple Sausage",
-    "frequency": 12992,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "22395": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Tomato Sauce",
-    "frequency": 12906,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "38164": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Almonds & Sea Salt in Dark Chocolate",
-    "frequency": 12905,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "46720": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Free Range Chicken Broth",
-    "frequency": 12849,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "40723": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Cripps Pink Apples",
-    "frequency": 12834,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "15902": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "100 Calorie  Per Bag Popcorn",
-    "frequency": 12822,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "35140": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Whole Cashews",
-    "frequency": 12816,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "4472": {
-    "shelf_id": 32,
-    "row": 4,
-    "col": 8,
-    "side": "right",
-    "product_name": "Toasted Coconut Almondmilk Blend",
-    "frequency": 12749,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "3376": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Whole Kernel Sweet Corn No Salt Added",
-    "frequency": 12738,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13166": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Milk Reduced Fat, 2% Milkfat",
-    "frequency": 12737,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "29662": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Potato Yukon Gold Organic",
-    "frequency": 12709,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "2855": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Good Seed Bread",
-    "frequency": 12705,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "28993": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Iceberg Lettuce",
-    "frequency": 12698,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "7175": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Whipped Naturally Buttery Spread",
-    "frequency": 12648,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13575": {
-    "shelf_id": 7,
-    "row": 1,
-    "col": 11,
-    "side": "right",
-    "product_name": "Apples",
-    "frequency": 12575,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "13740": {
-    "shelf_id": 10,
-    "row": 2,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Summer Strawberry Bunny Fruit Snacks",
-    "frequency": 12568,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "12916": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Ginger Ale",
-    "frequency": 12536,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "40516": {
-    "shelf_id": 20,
-    "row": 3,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Romaine Hearts",
-    "frequency": 12495,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "45200": {
-    "shelf_id": 39,
-    "row": 5,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Cauliflower",
-    "frequency": 12492,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "7503": {
-    "shelf_id": 24,
-    "row": 3,
-    "col": 9,
-    "side": "left",
-    "product_name": "Whole Almonds",
-    "frequency": 12474,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "5782": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Grade A Large White Eggs",
-    "frequency": 12441,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "19691": {
-    "shelf_id": 49,
-    "row": 6,
-    "col": 6,
-    "side": "left",
-    "product_name": "Green Seedless Grapes",
-    "frequency": 12437,
-    "abc_class": "C",
-    "distance_from_depot": 6.0
-  },
-  "5134": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Thompson Seedless Raisins",
-    "frequency": 12430,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "40332": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Cage Free Brown Eggs-Large, Grade A",
-    "frequency": 12424,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "12456": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Sunday Bacon",
-    "frequency": 12391,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21174": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "I Heart Baby Kale",
-    "frequency": 12361,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5258": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Sparkling Water",
-    "frequency": 12321,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "10644": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Italian Extra Virgin Olive Oil",
-    "frequency": 12318,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "39561": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Crackers Cheddar Bunnies Snack Packs",
-    "frequency": 12315,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "4421": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Beef Uncured Hot Dogs",
-    "frequency": 12230,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "33129": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Classic Hummus",
-    "frequency": 12196,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "44765": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Colby Cheese Sticks",
-    "frequency": 12191,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "20955": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Cereal",
-    "frequency": 12184,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "46584": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "YoKids Blueberry & Strawberry/Vanilla Yogurt",
-    "frequency": 12179,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "22124": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Total 0% Raspberry Yogurt",
-    "frequency": 12153,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "44570": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Kale Greens",
-    "frequency": 12141,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "3464": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Butterhead (Boston, Butter, Bibb) Lettuce",
-    "frequency": 12137,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "13198": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "85% Lean Ground Beef",
-    "frequency": 12123,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "43662": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Yogurt, Strained Low-Fat, Coconut",
-    "frequency": 12123,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "10070": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic 1% Low Fat Milk",
-    "frequency": 12121,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "32691": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Vanilla Ice Cream",
-    "frequency": 12117,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "7559": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Cinnamon Rolls with Icing",
-    "frequency": 12102,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "37710": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Trail Mix",
-    "frequency": 12068,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "36735": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Roasted Sliced Chicken Breast",
-    "frequency": 12056,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "35898": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Original Hot Sauce",
-    "frequency": 12048,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "37029": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Cream Cheese Spread",
-    "frequency": 11975,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "34262": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Hint Of Sea Salt Almond Nut Thins",
-    "frequency": 11945,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "1025": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Fresh Basil",
-    "frequency": 11930,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "18918": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Chopped Spinach",
-    "frequency": 11925,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "42719": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Natural Premium Coconut Water",
-    "frequency": 11908,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "11408": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Crushed Tomatoes",
-    "frequency": 11872,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "18234": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Spinach Bunch",
-    "frequency": 11843,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "44560": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Kids Organic Chocolate Chip ZBars",
-    "frequency": 11798,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "23029": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Uncured Sliced Black Forest Ham",
-    "frequency": 11747,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "45123": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic 21 Grain Thin Sliced Bread",
-    "frequency": 11736,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "3896": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Honey Sweet Whole Wheat Bread",
-    "frequency": 11705,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "9092": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Vegetable Broth",
-    "frequency": 11703,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "28745": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Oven Roasted Turkey",
-    "frequency": 11684,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "18811": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Apple Juice",
-    "frequency": 11666,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "26384": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Large Brown Eggs",
-    "frequency": 11655,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "35503": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Vanilla Almond Milk",
-    "frequency": 11621,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "35628": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Strawberry Smoothie",
-    "frequency": 11610,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "47141": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Cola",
-    "frequency": 11585,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "28476": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Small Curd Cottage Cheese",
-    "frequency": 11570,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "25138": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Plain Greek Whole Milk Yogurt",
-    "frequency": 11552,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21386": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Smartwater",
-    "frequency": 11504,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "47042": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Red On the Vine Tomato",
-    "frequency": 11466,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "46820": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Vanilla Pure Almond Milk",
-    "frequency": 11455,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21292": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Rainbow Bell Peppers",
-    "frequency": 11451,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "11140": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Romaine Leaf",
-    "frequency": 11431,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21573": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Roasted Pine Nut Hummus",
-    "frequency": 11381,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "38768": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Sweet Kale Salad Mix",
-    "frequency": 11362,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "17949": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Mild Cheddar Cheese Sticks",
-    "frequency": 11339,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "1999": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Chicken Broth",
-    "frequency": 11297,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "14197": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Tomato Paste",
-    "frequency": 11279,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "46616": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Dark Chocolate Peanut Butter Cups",
-    "frequency": 11264,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "32433": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Green Peas",
-    "frequency": 11253,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "37220": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Strawberry Fruit Spread",
-    "frequency": 11238,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "47759": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Mandarin Oranges",
-    "frequency": 11238,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "39947": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Blackberry Cucumber Sparkling Water",
-    "frequency": 11237,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "24954": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Total 0% with Honey Nonfat Greek Strained Yogurt",
-    "frequency": 11234,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "41065": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Yellow Squash",
-    "frequency": 11223,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21333": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Original Whipped Cream Cheese",
-    "frequency": 11179,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "25824": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Pita Chips Simply Naked",
-    "frequency": 11178,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "48628": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Whole Wheat Bread",
-    "frequency": 11165,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "1194": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Natural Artisan Water",
-    "frequency": 11110,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "43504": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Chicken Strips",
-    "frequency": 11110,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "44628": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Dijon Mustard",
-    "frequency": 11103,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5456": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Green Tea With Ginseng and Honey",
-    "frequency": 11079,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "38273": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Marinara Pasta Sauce",
-    "frequency": 11066,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "15613": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Salted Tub of Butter",
-    "frequency": 11053,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "35535": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Organic Red Chard Greens",
-    "frequency": 11029,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "15424": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Purified Water",
-    "frequency": 10998,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27548": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Original Semisoft Cheese",
-    "frequency": 10990,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "24841": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs",
-    "frequency": 10978,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "39190": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Vanilla Unsweetened Almond Milk",
-    "frequency": 10972,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27730": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Almond Breeze Original Almond Milk",
-    "frequency": 10950,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "42110": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Macaroni Shells & Real Aged Cheddar",
-    "frequency": 10907,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "29307": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Baby Arugula",
-    "frequency": 10893,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "14161": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Kiwi",
-    "frequency": 10872,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "49175": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Pinto Beans",
-    "frequency": 10829,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "14462": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Sliced Black Olives",
-    "frequency": 10816,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "31066": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Aluminum Foil",
-    "frequency": 10774,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "16696": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Coke Classic",
-    "frequency": 10772,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "26800": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Baby Kale Mix",
-    "frequency": 10725,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "9825": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Multigrain Waffles",
-    "frequency": 10704,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5322": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars",
-    "frequency": 10701,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27744": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Whipping Cream",
-    "frequency": 10687,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "8309": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Nonfat Icelandic Style Strawberry Yogurt",
-    "frequency": 10663,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "11005": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Organic Cream Cheese Bar",
-    "frequency": 10653,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "41588": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Firm Tofu",
-    "frequency": 10652,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "11068": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Medium Cheddar Cheese Block",
-    "frequency": 10652,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27796": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Real Mayonnaise",
-    "frequency": 10630,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27325": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Alpine Spring Water",
-    "frequency": 10603,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "2228": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Frozen Mango Chunks",
-    "frequency": 10584,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "7969": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Lime",
-    "frequency": 10576,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "22474": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Cheddar Bunnies Snack Crackers",
-    "frequency": 10557,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "9020": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Boneless Skinless Chicken Thighs",
-    "frequency": 10550,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "16521": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Walnut Halves & Pieces",
-    "frequency": 10531,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5769": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Chicken Stock",
-    "frequency": 10521,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "3298": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Mozzarella String Cheese",
-    "frequency": 10521,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "1244": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Organic Orange Bell Pepper",
-    "frequency": 10518,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "13517": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Whole Wheat Bread",
-    "frequency": 10512,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "27323": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Pure & Natural Sour Cream",
-    "frequency": 10483,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "2452": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Naturals Chicken Nuggets",
-    "frequency": 10462,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "28601": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Collard Greens",
-    "frequency": 10455,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "2314": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Whole Milk Ricotta Cheese",
-    "frequency": 10434,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21927": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Boneless Skinless Chicken Breast",
-    "frequency": 10424,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "32177": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Blood Oranges",
-    "frequency": 10421,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "13733": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Red Potatoes",
-    "frequency": 10415,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "12980": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Large Greenhouse Tomato",
-    "frequency": 10405,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "15261": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Organic Rosemary",
-    "frequency": 10390,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "19173": {
-    "shelf_id": 41,
-    "row": 5,
-    "col": 8,
-    "side": "right",
-    "product_name": "Orange Calcium & Vitamin D Pulp Free",
-    "frequency": 10390,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "21872": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Italian Salad",
-    "frequency": 10388,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "20345": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Thin Crust Pepperoni Pizza",
-    "frequency": 10386,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "41658": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Authentic French Brioche Hamburger Buns",
-    "frequency": 10379,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "18479": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Organic Low Sodium Vegetable Broth",
-    "frequency": 10375,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "49191": {
-    "shelf_id": 8,
-    "row": 1,
-    "col": 12,
-    "side": "left",
-    "product_name": "Cran Raspberry Sparkling Water",
-    "frequency": 10365,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "20734": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Organic Medjool Dates",
-    "frequency": 10360,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "4086": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Mint",
-    "frequency": 10347,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "22849": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Bunny-Luv Fresh Organic Carrots",
-    "frequency": 10347,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "36724": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Organic Sea Salt Roasted Seaweed Snacks",
-    "frequency": 10345,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "17316": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Vitamin D Organic Whole Milk",
-    "frequency": 10329,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5373": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic No Salt Added Diced Tomatoes",
-    "frequency": 10303,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "26497": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Romaine Lettuce",
-    "frequency": 10281,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "20738": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Plain Bagels",
-    "frequency": 10274,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "44799": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Fresh CA Grown Eggs",
-    "frequency": 10260,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "20574": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Roasted Turkey",
-    "frequency": 10195,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "5161": {
-    "shelf_id": 33,
-    "row": 4,
-    "col": 9,
-    "side": "left",
-    "product_name": "Dried Mango",
-    "frequency": 10150,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "35914": {
-    "shelf_id": 16,
-    "row": 2,
-    "col": 11,
-    "side": "right",
-    "product_name": "Dha Omega 3 Reduced Fat 2% Milk",
-    "frequency": 10148,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "22959": {
-    "shelf_id": 48,
-    "row": 6,
-    "col": 5,
-    "side": "right",
-    "product_name": "Reduced Fat Milk 100% Lactose Free",
-    "frequency": 10130,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "37524": {
-    "shelf_id": 58,
-    "row": 7,
-    "col": 6,
-    "side": "left",
-    "product_name": "Fresh Mozzarella Ball",
-    "frequency": 10101,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "6948": {
-    "shelf_id": 0,
-    "row": 1,
-    "col": 0,
-    "side": "left",
-    "product_name": "Organic Original Almond Milk",
-    "frequency": 10060,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "12845": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Chopped Walnuts",
-    "frequency": 10027,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "4656": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Raspberry Preserves",
-    "frequency": 9989,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "17758": {
-    "shelf_id": 29,
-    "row": 4,
-    "col": 3,
-    "side": "left",
-    "product_name": "Strawberry Rhubarb Yoghurt",
-    "frequency": 9961,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "47630": {
-    "shelf_id": 19,
-    "row": 3,
-    "col": 2,
-    "side": "right",
-    "product_name": "Medium Navel Orange",
-    "frequency": 9959,
-    "abc_class": "C",
-    "distance_from_depot": 7.0
-  },
-  "26348": {
-    "shelf_id": 42,
-    "row": 5,
-    "col": 9,
-    "side": "left",
-    "product_name": "Mixed Fruit Fruit Snacks",
-    "frequency": 9955,
-    "abc_class": "C",
-    "distance_from_depot": 8.0
-  },
-  "25513": {
-    "shelf_id": 50,
-    "row": 6,
-    "col": 8,
-    "side": "right",
-    "product_name": "Boomchickapop Sea Salt Popcorn",
-    "frequency": 9938,
-    "abc_class": "C",
-    "distance_from_depot": 8.0
-  },
-  "33055": {
-    "shelf_id": 28,
-    "row": 4,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Golden Delicious Apple",
-    "frequency": 9929,
-    "abc_class": "C",
-    "distance_from_depot": 8.0
-  },
-  "34584": {
-    "shelf_id": 28,
-    "row": 4,
-    "col": 2,
-    "side": "right",
-    "product_name": "Organic Sliced Peaches",
-    "frequency": 9922,
-    "abc_class": "C",
-    "distance_from_depot": 8.0
-  },
-  "11712": {
-    "shelf_id": 50,
-    "row": 6,
-    "col": 8,
-    "side": "right",
-    "product_name": "Cage Free Large White Eggs",
-    "frequency": 9917,
-    "abc_class": "C",
-    "distance_from_depot": 8.0
+    "distance_from_depot": 17.0
   }
 }

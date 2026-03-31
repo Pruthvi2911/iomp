@@ -1,0 +1,14 @@
+﻿Total products in layout : 500
+Unique grid positions    : 36
+Positions with >1 product: 35
+Max products at one cell : 15
+
+Sample entry:
+  Product 24852: {'shelf_id': 4, 'row': 1, 'col': 6, 'side': 'left', 'product_name': 'Banana', 'frequency': 472565, 'abc_class': 'A', 'distance_from_depot': 1.0}
+
+Top 5 most crowded cells:
+  Position (1, 6): 15 products
+  Position (2, 6): 15 products
+  Position (1, 5): 15 products
+  Position (3, 6): 15 products
+  Position (2, 5): 15 products

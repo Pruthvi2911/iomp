@@ -1,58 +1,49 @@
-"""
-Proper evaluation of trained PPO model
-"""
 import sys
-import importlib
-sys.path.append('D:/iomp/dark_store_project/code')
-gym_env_module = importlib.import_module("3_gym_environment")
-DarkStoreEnv = gym_env_module.DarkStoreEnv
+import os
+import json
+import numpy as np
 from stable_baselines3 import PPO
 
-# Load environment and model
-layout_file = "D:/iomp/dark_store_project/results/optimized_layout.json"
-env = DarkStoreEnv(layout_file, max_steps=350)
-model = PPO.load("D:/iomp/dark_store_project/results/ppo_model")
+base_dir = "D:/iomp/dark_store_project"
+sys.path.append(os.path.join(base_dir, 'code'))
+import importlib
+gym_env_module = importlib.import_module("3_gym_environment")
+DarkStoreEnv = gym_env_module.DarkStoreEnv
 
-# Evaluate on 100 episodes
-successes = 0
-total_rewards = []
-total_steps = []
+layout_path = os.path.join(base_dir, "results/optimized_layout.json")
+model_path = os.path.join(base_dir, "results/ppo_model.zip")
 
-print("Evaluating trained model on 100 episodes...\n")
+env = DarkStoreEnv(layout_path, max_steps=250, max_items_per_order=3)
+model = PPO.load(model_path, device='cpu')
 
-for episode in range(100):
+n_eval_episodes = 500
+episode_rewards = []
+episode_lengths = []
+episode_successes = []
+
+print(f"Running {n_eval_episodes} evaluation episodes with deterministic=True...")
+for i in range(n_eval_episodes):
     obs, info = env.reset()
     done = False
-    episode_reward = 0
-    episode_steps = 0
+    ep_reward = 0
+    ep_length = 0
     
     while not done:
-        # Use trained model to predict action
         action, _ = model.predict(obs, deterministic=True)
         obs, reward, terminated, truncated, info = env.step(action)
-        
-        episode_reward += reward
-        episode_steps += 1
+        ep_reward += reward
+        ep_length += 1
         done = terminated or truncated
-    
-    # Check if successful
-    if info['items_picked'] == info['total_items']:
-        successes += 1
-    
-    total_rewards.append(episode_reward)
-    total_steps.append(episode_steps)
-    
-    if (episode + 1) % 10 == 0:
-        print(f"Episode {episode + 1}/100: Success rate so far: {successes/(episode+1)*100:.1f}%")
+        
+    episode_rewards.append(ep_reward)
+    episode_lengths.append(ep_length)
+    episode_successes.append(1 if info.get('success', False) else 0)
 
-# Final results
-import numpy as np
-print(f"\n{'='*60}")
-print("FINAL EVALUATION RESULTS")
-print(f"{'='*60}")
-print(f"Success Rate: {successes}% ({successes}/100 episodes)")
-print(f"Average Reward: {np.mean(total_rewards):.2f} ± {np.std(total_rewards):.2f}")
-print(f"Average Steps: {np.mean(total_steps):.1f}")
-print(f"Min Steps: {np.min(total_steps)}")
-print(f"Max Steps: {np.max(total_steps)}")
-print(f"{'='*60}")
+success_rate = np.mean(episode_successes) * 100
+avg_reward = np.mean(episode_rewards)
+avg_length = np.mean(episode_lengths)
+
+print(f"\n--- PROPER EVAL (500 episodes) ---")
+print(f"Success Rate: {success_rate:.1f}%")
+print(f"Avg Reward: {avg_reward:.2f}")
+print(f"Avg Steps: {avg_length:.1f}")

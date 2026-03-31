@@ -11,11 +11,11 @@ from stable_baselines3 import PPO
 from stable_baselines3.common.callbacks import BaseCallback
 from stable_baselines3.common.vec_env import DummyVecEnv
 import time
-import sys
-sys.stdout.reconfigure(encoding='utf-8')
 
 # Import our custom environment - FIXED for filename 3_gym_environment.py
 import sys
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
 sys.path.append('D:/iomp/dark_store_project/code')
 import importlib
 gym_env_module = importlib.import_module("3_gym_environment")
@@ -28,9 +28,9 @@ print("=" * 60)
 # ============================================
 # CONFIGURATION
 # ============================================
-LAYOUT_FILE = "D:/iomp/dark_store_project/results/optimized_layout.json"
-MODEL_SAVE_PATH = "D:/iomp/dark_store_project/results/ppo_model"
-LOG_PATH = "D:/iomp/dark_store_project/results/training_log.csv"
+LAYOUT_FILE = "D:/iomp/dark_store_project/results/random_layout.json"
+MODEL_SAVE_PATH = "D:/iomp/dark_store_project/results/ppo_model_random"
+LOG_PATH = "D:/iomp/dark_store_project/results/training_log_random.csv"
 
 # Training parameters
 TOTAL_TIMESTEPS = 500000  # 500k for multi-agent training
@@ -117,7 +117,7 @@ print("\n[1/5] Creating training environment...")
 
 try:
     # Create environment
-    env = DarkStoreEnv(LAYOUT_FILE, max_steps=250, max_items_per_order=3)
+    env = DarkStoreEnv(LAYOUT_FILE, max_steps=300, max_items_per_order=3)
     
     # Wrap in vectorized environment (required by Stable-Baselines3)
     env = DummyVecEnv([lambda: env])

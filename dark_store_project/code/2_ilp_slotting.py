@@ -40,9 +40,13 @@ with open(DATA_PATH + "processed_data.pkl", 'rb') as f:
     data = pickle.load(f)
 
 products = data['products']
+
+# Keep only top 100 products for new layout
+products = products.sort_values('frequency', ascending=False).head(100).reset_index(drop=True)
+
 affinity_pairs = data['affinity_pairs']
 
-print(f"✓ Loaded {len(products)} products")
+print(f"✓ Loaded {len(products)} products (filtered to top 150)")
 print(f"✓ Loaded {len(affinity_pairs)} affinity pairs")
 
 # ============================================
@@ -65,7 +69,7 @@ def get_shelf_positions():
             if pos_in_aisle == 0:  # Left shelf
                 shelves.append((row, col, 'left'))
             elif pos_in_aisle == 2:  # Right shelf (col 2, 5, 8, 11)
-                if col < 12:  # Exclude cross-aisle column
+                if col < 12:  # Stop at 4 aisles (cols 0-11)
                     shelves.append((row, col, 'right'))
     
     return shelves
@@ -156,14 +160,14 @@ print("  Adding constraints...")
 for i in range(len(product_ids)):
     prob += lpSum([x[i, s] for s in range(len(shelves))]) == 1
 
-# Constraint 2: Each shelf holds at most ~6 products (capacity)
-# We have 500 products and 88 shelves, so ~5.7 per shelf on average
+# Constraint 2: Each shelf holds at most 1 product (capacity)
+# 100 products into ~100 distinct layout spaces
 for s in range(len(shelves)):
-    prob += lpSum([x[i, s] for i in range(len(product_ids))]) <= 15
+    prob += lpSum([x[i, s] for i in range(len(product_ids))]) <= 1
 
 print(f"✓ Added constraints")
 print("  Constraint 1: Each product → 1 shelf")
-print("  Constraint 2: Each shelf → max 15 products")
+print("  Constraint 2: Each shelf → max 1 product")
 
 # Solve the problem
 print("\n  Solving ILP with CP-SAT solver...")
@@ -275,7 +279,7 @@ print(f"  1. {layout_file}")
 print(f"  2. {heatmap_file}")
 
 print(f"\nOptimization summary:")
-print(f"  - Products: 500")
+print(f"  - Products: {len(product_ids)}")
 print(f"  - Shelves: {len(shelves)}")
 print(f"  - Solver time: {solve_time:.2f}s")
 print(f"  - Status: {LpStatus[prob.status]}")
@@ -292,8 +296,9 @@ for prod_id, info in layout.items():
 
 print(f"\nAverage distance by class:")
 for abc_class in ['A', 'B', 'C']:
-    avg_dist = np.mean(abc_dist[abc_class])
-    print(f"  {abc_class}-items: {avg_dist:.1f} units from depot")
+    if abc_class in abc_dist:
+        avg_dist = np.mean(abc_dist[abc_class])
+        print(f"  {abc_class}-items: {avg_dist:.1f} units from depot")
 
 print(f"\n✓ Ready for PPO training (Day 10-12)")
 print("=" * 60)
