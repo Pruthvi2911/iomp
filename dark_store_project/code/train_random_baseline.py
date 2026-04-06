@@ -11,11 +11,11 @@ from stable_baselines3 import PPO
 from stable_baselines3.common.callbacks import BaseCallback
 from stable_baselines3.common.vec_env import DummyVecEnv
 import time
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 # Import our custom environment - FIXED for filename 3_gym_environment.py
 import sys
-sys.stdout.reconfigure(encoding='utf-8')
-sys.stderr.reconfigure(encoding='utf-8')
 sys.path.append('D:/iomp/dark_store_project/code')
 import importlib
 gym_env_module = importlib.import_module("3_gym_environment")
@@ -117,7 +117,7 @@ print("\n[1/5] Creating training environment...")
 
 try:
     # Create environment
-    env = DarkStoreEnv(LAYOUT_FILE, max_steps=300, max_items_per_order=3)
+    env = DarkStoreEnv(LAYOUT_FILE, max_steps=250, max_items_per_order=3)
     
     # Wrap in vectorized environment (required by Stable-Baselines3)
     env = DummyVecEnv([lambda: env])
@@ -145,7 +145,7 @@ model = PPO(
     gamma=0.99,
     gae_lambda=0.95,
     clip_range=0.2,
-    ent_coef=0.01,
+    ent_coef=0.02,
     policy_kwargs=dict(net_arch=[256, 256]),
     verbose=1
 )
@@ -302,7 +302,7 @@ if os.path.exists(LOG_PATH):
     
     plt.tight_layout()
     
-    plot_path = "D:/iomp/dark_store_project/results/ppo_learning_curve.png"
+    plot_path = "D:/iomp/dark_store_project/results/ppo_learning_curve_random.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     print(f"✓ Learning curve saved to: {plot_path}")
     
@@ -318,7 +318,7 @@ print("=" * 60)
 print(f"\nFiles created:")
 print(f"  1. {MODEL_SAVE_PATH}.zip (trained model)")
 print(f"  2. {LOG_PATH} (training log)")
-print(f"  3. D:/iomp/dark_store_project/results/ppo_learning_curve.png")
+print(f"  3. D:/iomp/dark_store_project/results/ppo_learning_curve_random.png")
 
 print(f"\nFinal performance:")
 print(f"  Success rate: {success_rate:.1f}%")

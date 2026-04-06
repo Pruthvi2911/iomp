@@ -22,8 +22,8 @@ print("=" * 60)
 DATA_PATH = "D:/iomp/dark_store_project/data/"
 OUTPUT_PATH = "D:/iomp/dark_store_project/results/"
 
-# Grid configuration (4 aisles, 12x13 grid)
-GRID_ROWS = 12
+# Grid configuration (4 aisles, 13x13 grid with bottom cross-aisle)
+GRID_ROWS = 13
 GRID_COLS = 13
 DEPOT_POSITION = (0, 6)  # Middle of first row
 
@@ -42,7 +42,9 @@ with open(DATA_PATH + "processed_data.pkl", 'rb') as f:
 products = data['products']
 
 # Keep only top 100 products for new layout
-products = products.sort_values('frequency', ascending=False).head(100).reset_index(drop=True)
+# 88 products to fill 88 shelf slots exactly
+# (4 aisles x 2 sides x 11 rows = 88 positions, col 12 reserved as boundary)
+products = products.sort_values('frequency', ascending=False).head(88).reset_index(drop=True)
 
 affinity_pairs = data['affinity_pairs']
 
@@ -56,22 +58,32 @@ print("\n[2/6] Defining shelf positions in 12×13 grid...")
 
 def get_shelf_positions():
     """
-    Generate all valid shelf positions in the grid.
-    Pattern: [Left Shelf, Walkway, Right Shelf] repeats for 4 aisles
+    Generate all valid shelf positions in the 13x13 wall-aware grid.
+
+    Layout per aisle row:
+      col 0  : left shelf   | col 1  : walkway
+      col 2  : right shelf  | col 3  : left shelf
+      col 4  : walkway      | col 5  : right shelf
+      col 6  : left shelf   | col 7  : walkway
+      col 8  : right shelf  | col 9  : left shelf
+      col 10 : walkway      | col 11 : right shelf
+      col 12 : boundary (no shelf, no walkway)
+
+    Rows 0 and 12 are cross-aisles — no shelves placed there.
+    Total: 4 aisles x 2 sides x 11 rows = 88 shelf positions.
     """
     shelves = []
-    
-    for row in range(1, GRID_ROWS):  # Skip row 0 (depot)
-        for col in range(GRID_COLS):
-            # Check if this column is a shelf (not walkway)
+    SHELF_ROWS = range(1, GRID_ROWS - 1)  # rows 1-11 (skip row 0 depot & row 12 cross-aisle)
+    SHELF_COLS = range(GRID_COLS - 1)     # cols 0-11 (skip col 12 boundary)
+
+    for row in SHELF_ROWS:
+        for col in SHELF_COLS:
             pos_in_aisle = col % 3
-            
-            if pos_in_aisle == 0:  # Left shelf
+            if pos_in_aisle == 0:    # Left shelf: cols 0, 3, 6, 9
                 shelves.append((row, col, 'left'))
-            elif pos_in_aisle == 2:  # Right shelf (col 2, 5, 8, 11)
-                if col < 12:  # Stop at 4 aisles (cols 0-11)
-                    shelves.append((row, col, 'right'))
-    
+            elif pos_in_aisle == 2:  # Right shelf: cols 2, 5, 8, 11
+                shelves.append((row, col, 'right'))
+
     return shelves
 
 shelves = get_shelf_positions()
