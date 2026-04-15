@@ -1,0 +1,30 @@
+
+[5/5] Evaluating trained model...
+
+Evaluation results (100 episodes):
+  Average reward: -30.00 ┬▒ 0.00
+  Average episode length: 200.0 steps
+  Success rate: 0.0%
+
+[6/6] Creating learning curve visualization...
+Γ£ô Learning curve saved to: D:/iomp/dark_store_project/results/ppo_learning_curve.png
+
+============================================================
+PPO TRAINING COMPLETE! Γ£ô
+============================================================
+
+Files created:
+  1. D:/iomp/dark_store_project/results/ppo_model.zip (trained model)
+  2. D:/iomp/dark_store_project/results/training_log.csv (training log)
+  3. D:/iomp/dark_store_project/results/ppo_learning_curve.png
+
+Final performance:
+  Success rate: 0.0%
+  Average reward: -30.00
+  Average steps: 200.0
+
+ΓÜá Model needs more training
+  Consider increasing TOTAL_TIMESTEPS to 100,000
+
+Γ£ô Ready for baseline comparison (Day 16-17)
+============================================================
