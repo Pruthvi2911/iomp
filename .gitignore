@@ -1,0 +1,17 @@
+**/.venv/
+iomp-main/dark_store_project/.venv/
+**/ .venv/
+# Ignore the virtual environment
+.venv/
+dark_store_project/.venv/
+
+# Ignore large data files
+dark_store_project/data/*.csv
+dark_store_project/data/*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Keep the results but ignore the heavy model files
+dark_store_project/results/*.zip
