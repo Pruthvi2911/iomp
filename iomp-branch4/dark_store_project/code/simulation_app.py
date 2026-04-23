@@ -43,20 +43,64 @@ env, model = load_system()
 if st.button("Generate Random Order & Simulate 🚀", type="primary"):
     
     # 1. Generate new order & run simulation behind the scenes
-    obs, info = env.reset()
-    current_targets = [env.product_positions[i] for i in env.order_items]
-    done = False
+    # We run multiple stochastic attempts to find the *best path* for the worker
+    import random
+    order_seed = random.randint(0, 1000000)
     
-    agent_path = [tuple(env.current_position)]
+    best_path = []
+    best_items_picked = -1
+    best_info = {}
+    best_targets = []
+    best_success = False
     
-    while not done:
-        action, _ = model.predict(obs, deterministic=False)
-        obs, reward, term, trunc, info = env.step(action)
-        agent_path.append(tuple(env.current_position))
-        done = term or trunc
-        
-    items_picked = 3 - info.get('items_remaining', 3)
-    success = info.get('success', False)
+    with st.spinner("Agent is exploring to find the optimal path..."):
+        for attempt in range(15):
+            obs, info = env.reset(seed=order_seed)
+            current_targets = [env.product_positions[i] for i in env.order_items]
+            done = False
+            agent_path = [tuple(env.current_position)]
+            
+            while not done:
+                action, _ = model.predict(obs, deterministic=False)
+                obs, reward, term, trunc, info = env.step(action)
+                agent_path.append(tuple(env.current_position))
+                done = term or trunc
+                
+            items_picked = 3 - info.get('items_remaining', 3)
+            success = info.get('success', False)
+            
+            # Logic to keep the best run
+            if success and not best_success:
+                best_success = True
+                best_path = agent_path
+                best_items_picked = items_picked
+                best_info = info
+                best_targets = current_targets
+            elif success and best_success:
+                # Both succeeded, keep the shorter path
+                if len(agent_path) < len(best_path):
+                    best_path = agent_path
+                    best_items_picked = items_picked
+                    best_info = info
+                    best_targets = current_targets
+            elif not best_success:
+                # Neither succeeded yet, keep the one with most items picked
+                if items_picked > best_items_picked:
+                    best_items_picked = items_picked
+                    best_path = agent_path
+                    best_info = info
+                    best_targets = current_targets
+                elif items_picked == best_items_picked:
+                    if not best_path or len(agent_path) < len(best_path):
+                        best_path = agent_path
+                        best_info = info
+                        best_targets = current_targets
+
+    # Use the best results for visualization
+    agent_path = best_path
+    items_picked = best_items_picked
+    success = best_success
+    current_targets = best_targets
     
     # 2. Setup visualization components
     with open(LAYOUT_PATH) as f:
@@ -113,3 +157,59 @@ if st.button("Generate Random Order & Simulate 🚀", type="primary"):
     **Legend:**
     🟩 Agent | 🟦 Depot | 🟥 Target Items | ⬜ Walkway | ⬛ Shelves
     """)
+
+    # --- Generate Worker Directions ---
+    def get_turn(current_facing, new_facing):
+        if current_facing == new_facing: return "Go straight"
+        elif current_facing == (1, 0): # South
+            return "Turn left" if new_facing == (0, 1) else "Turn right" if new_facing == (0, -1) else "Turn around"
+        elif current_facing == (-1, 0): # North
+            return "Turn right" if new_facing == (0, 1) else "Turn left" if new_facing == (0, -1) else "Turn around"
+        elif current_facing == (0, 1): # East
+            return "Turn right" if new_facing == (1, 0) else "Turn left" if new_facing == (-1, 0) else "Turn around"
+        elif current_facing == (0, -1): # West
+            return "Turn left" if new_facing == (1, 0) else "Turn right" if new_facing == (-1, 0) else "Turn around"
+        return "Move"
+
+    if len(agent_path) > 1:
+        instructions = []
+        facing = (1, 0) # Start facing South (from depot)
+        current_dir = None
+        step_count = 0
+        
+        for i in range(1, len(agent_path)):
+            dr = agent_path[i][0] - agent_path[i-1][0]
+            dc = agent_path[i][1] - agent_path[i-1][1]
+            
+            if dr == 0 and dc == 0: continue
+            
+            step_dir = (dr, dc)
+            
+            if current_dir is None:
+                current_dir = step_dir
+                step_count = 1
+            elif current_dir == step_dir:
+                step_count += 1
+            else:
+                turn_text = get_turn(facing, current_dir)
+                if turn_text == "Go straight": instructions.append(f"↑ **Go straight** for {step_count} step(s)")
+                elif turn_text == "Turn left": instructions.append(f"↰ **Turn left** and go forward {step_count} step(s)")
+                elif turn_text == "Turn right": instructions.append(f"↱ **Turn right** and go forward {step_count} step(s)")
+                else: instructions.append(f"↻ **Turn around** and go forward {step_count} step(s)")
+                
+                facing = current_dir
+                current_dir = step_dir
+                step_count = 1
+                
+        if current_dir is not None:
+            turn_text = get_turn(facing, current_dir)
+            if turn_text == "Go straight": instructions.append(f"↑ **Go straight** for {step_count} step(s)")
+            elif turn_text == "Turn left": instructions.append(f"↰ **Turn left** and go forward {step_count} step(s)")
+            elif turn_text == "Turn right": instructions.append(f"↱ **Turn right** and go forward {step_count} step(s)")
+            else: instructions.append(f"↻ **Turn around** and go forward {step_count} step(s)")
+            
+        instructions.append("🎯 **Pick up all items and return to Depot**")
+        
+        with st.expander("📝 Step-by-Step Directions for Worker", expanded=True):
+            for idx, inst in enumerate(instructions):
+                st.markdown(f"**{idx + 1}.** {inst}")
